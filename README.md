@@ -33,6 +33,9 @@ Nesse endpoint é possível visualizar todos os smoothies disponíveis no cardá
 Nesse endpoint, o cliente deverá preencher o seu nome, o nome do smoothie que deseja e, caso seja alérgico à algum ingrediente, preencher o campo 'allergicIngredient' com o nome do ingrediente do qual ele é alérgico, e esse ingrediente será removido de seu smoothie. Caso não seja alérgico à nenhum ingrediente, deverá deixar o campo vazio.
 <br>
 
+## Testes com Jest
+- Foram realizados alguns testes simples com o jest. Estão explicados no próprio arquivo seus respectivos objetivos, e para testá-los, basta rodar o script test.
+<br>
 
 ## Tecnologias utilizadas:
 - Node.js
@@ -41,6 +44,7 @@ Nesse endpoint, o cliente deverá preencher o seu nome, o nome do smoothie que d
 - Programação Orientada à Objetos
 - Postman
 - Git
+- Jest
 <br>
 <br>
 
